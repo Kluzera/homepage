@@ -1,0 +1,12 @@
+.header {
+    border: 20px groove rgb(89, 89, 100);
+    border-radius: 20px;
+    padding: 20px;
+    width: 100%;
+    overflow-x: auto;
+
+}
+
+.header__heading {
+    color: rgb(19, 8, 8);
+}

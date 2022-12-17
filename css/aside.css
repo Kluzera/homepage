@@ -1,0 +1,26 @@
+.aside {
+    margin: 50px;
+}
+
+.aside__link {
+    color: rgb(32, 32, 235);
+    text-decoration: none;
+}
+
+.aside__link:hover {
+    color: red;
+    border-bottom: 1px solid;
+    outline: none;
+}
+
+.aside__link:active {
+    color: rgb(13, 170, 248);
+}
+
+.aside__button {
+    border-radius: 5px;
+    background-color: rgb(20, 241, 223);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    font-style: italic;
+}

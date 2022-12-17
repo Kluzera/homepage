@@ -1,0 +1,14 @@
+.footer {
+    text-align: center;
+    margin-top: 75px;
+}
+
+.footer__link:hover {
+    color: red;
+    border-bottom: 1px solid;
+    outline: none;
+}
+
+.footer__link {
+    text-decoration: none;
+}

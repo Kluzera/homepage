@@ -1,0 +1,21 @@
+.navigation__item {
+    margin: 10px 0;
+    list-style-type: "";
+    font-size: 20px;
+}
+
+.navigation__link {
+    color: rgb(32, 32, 235);
+    text-decoration: blue;
+}
+
+.navigation__item--important {
+    font-size: 20px;
+    list-style-type: "";
+}
+
+.navigation__link:hover {
+    color: red;
+    border-bottom: 1px solid;
+    outline: none;
+}
