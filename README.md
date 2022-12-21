@@ -1,5 +1,6 @@
-# Zadanie-domowe
+# Homepage
 
-## Praca domowa z kursu Frontend Developer od podstaw
+## Homework from course Frontend Developer from scratch
 
 https://kluzera.github.io/zadanie-domowe/
+git 
