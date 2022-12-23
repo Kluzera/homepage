@@ -15,6 +15,7 @@
 ```button.addEventListener("click", () => {
     body.classList.toggle("dark");```
     
-    ## If you want more what I learnd check my website
+    ## If you want more what I learnd check my website:
+    https://kluzera.github.io/homepage/
 
 
