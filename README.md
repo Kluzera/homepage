@@ -1,4 +1,4 @@
-![Phenomenon of Sanah](https://i.postimg.cc/XNDwtmGq/Sanah.gif)
+![Phenomenon of Sanah](https://i.postimg.cc/d1w6xk0G/Sanah2.gif)
 
 # Homepage
 
@@ -15,7 +15,7 @@
 ```button.addEventListener("click", () => {
     body.classList.toggle("dark");```
     
-    ## If you want more what I learnd check my website:
+    ## If you want see more what I learnd check my website:
     https://kluzera.github.io/homepage/
 
 
