@@ -4,7 +4,6 @@
 
 ## My first page
 **I learned how to create website from the best teacher Krzysiek Dąbrowski:)**
-https://kluzera.github.io/homepage/
 
 -I learnd what is html, css and javasript.
 
@@ -12,7 +11,7 @@ https://kluzera.github.io/homepage/
 
 -I know how to add the class to some element and  how style them in css.
 
--I know how to switch background color thanks javascript
+-I know how to switch background color thanks javascript 
 
 ```button.addEventListener("click", () => {
     body.classList.toggle("dark");
@@ -22,7 +21,8 @@ https://kluzera.github.io/homepage/
 ```
 
 ### If you want see more what I learnd check my website:
-     [](https://kluzera.github.io/homepage/)
+https://kluzera.github.io/homepage/
+  
     
 
 
