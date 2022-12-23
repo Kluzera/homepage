@@ -3,7 +3,7 @@
 # Homepage
 
 ## My first page
-**I learned how to create website from the best teacher Krzyśiek Dąbrowski:)**
+**I learned how to create website from the best teacher Krzysiek Dąbrowski:)**
 
 -I learnd what is html, css and javasript.
 
