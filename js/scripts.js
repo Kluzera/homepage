@@ -3,8 +3,6 @@
     console.log("Cześć wszystkim!");
   };
 
-  welcome();
-
   const toggleBackground = () => {
     const body = document.querySelector(".body");
     const themeName = document.querySelector(".js-themeName");
@@ -16,6 +14,8 @@
   const init = () => {
     const button = document.querySelector(".aside__button");
     button.addEventListener("click", toggleBackground);
+
+    welcome();
   };
 
   init();
