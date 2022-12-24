@@ -5,6 +5,8 @@
 ## My first page
 **I learned how to create website from the best teacher Krzysiek Dąbrowski:)**
 
+If you want see what I learnd check my website:https://kluzera.github.io/homepage/
+
 -I learnd what is html, css and javasript.
 
 -I learnd how to divide into sections file HTML.
@@ -13,17 +15,10 @@
 
 -I know how to switch background color thanks javascript 
 
-```button.addEventListener("click", () => {
-    body.classList.toggle("dark");
+## What I use:
 
-    themeName.innerText = body.classList.contains("dark") ? "białe" : "szere";
-});
-```
+-convention BEM
 
-### If you want see more what I learnd check my website:
-https://kluzera.github.io/homepage/
-  
-    
+-using new features ee6+
 
-
-
+-javascript
