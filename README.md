@@ -1,6 +1,6 @@
-![Phenomenon of Sanah](https://i.postimg.cc/d1w6xk0G/Sanah2.gif)
 
 # Homepage
+![Phenomenon of Sanah](https://i.postimg.cc/d1w6xk0G/Sanah2.gif)
 
 ## My first page
 **I learned how to create website from the best teacher Krzysiek Dąbrowski:)**
