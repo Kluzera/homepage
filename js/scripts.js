@@ -1,6 +1,6 @@
 {
   const welcome = () => {
-    console.log("Cześć wszystkim!");
+    console.log("Hi everyone!");
   };
 
   const toggleBackground = () => {
